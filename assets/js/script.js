@@ -1,8 +1,6 @@
-import '../../node_modules/bootstrap/dist/js/bootstrap.bundle.js';
-
 window.onscroll = function() {
     var navbar = document.getElementById("navbar");
-    if (window.scrollY > 50) {  // Ajusta el valor según cuando quieras que el cambio ocurra
+    if (window.scrollY > 50) {
         navbar.classList.add("navbar-scrolled");
     } else {
         navbar.classList.remove("navbar-scrolled");
