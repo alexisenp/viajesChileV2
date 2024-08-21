@@ -10,3 +10,6 @@ Este repositorio contiene el proyecto final de una prueba realizada durante el B
 - **Google Fonts:** Implementación de fuentes tipográficas personalizadas para mejorar la estética visual del proyecto.
 - **Font Awesome:** Biblioteca de iconos utilizada para enriquecer la interfaz de usuario con iconos escalables y personalizables.
 
+
+
+[Ver sitio aqui](https://alexisenp.github.io/viajesChileV2/)
